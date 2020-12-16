@@ -5,4 +5,9 @@ private Stirng bookName;
 private String type;
 private Float price;
 
+
+public Book(){
+
+}
+
 }
