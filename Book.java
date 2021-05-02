@@ -8,6 +8,15 @@ private Float price;
 
 public Book(){
 
+
 }
+
+public int buy(){
+
+
+}
+
+
+
 
 }
